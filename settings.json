@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Minabyy",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Kami-0haS.aternos.me",
     "port": 56184,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
